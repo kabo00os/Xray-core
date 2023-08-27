@@ -1,4 +1,4 @@
-module github.com/xtls/xray-core
+module github.com/kabo00os/xray-core
 
 go 1.21
 
